@@ -1,0 +1,11 @@
+Iniciar programa
+Pedir nombre
+Si escribe "Salir", terminar
+Pedir edad
+Si es menor de edad, no cotizar
+Pedir hijos
+Pedir salario
+Pedir propiedades
+Calcular recargos
+Mostrar total
+Repetir

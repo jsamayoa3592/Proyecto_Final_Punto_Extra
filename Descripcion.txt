@@ -1,0 +1,9 @@
+El programa calcula el precio de un seguro.
+
+Parte de un precio base y suma recargos según:
+- Edad
+- Hijos
+- Propiedades
+- Salario
+
+Permite hacer varias cotizaciones hasta que el usuario escriba "Salir".
